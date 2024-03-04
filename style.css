@@ -1,1 +1,20 @@
+h1{
+    color: rgb(151, 193, 36);
+    padding: 20px;
+    padding-left: 12px;
 
+}
+h4{
+    color: brown;
+    padding: 20px;
+    padding-left: 12px;
+}
+button{
+    color: blueviolet;
+    background-color: rgb(236, 214, 187);
+    margin: 0;
+    border-radius: 10px;
+}
+label{
+    color: cornflowerblue;
+}
