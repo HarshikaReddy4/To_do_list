@@ -27,7 +27,13 @@ If you would like to contribute to this project, please follow our guidelines fo
 
 ## Authors
 
-The project was developed by Harshika,Vighnesh who can be found on GitHub [here](link to author's GitHub profile).
+The project was developed by Harshika,Vighnesh who can be found on GitHub
+
+## Updates
+
+- Add Favicon to the Website..
+- Fix the Layout and other small fixes..
+- Optimize the code and make it more modern and clearn UI
 
 
 
