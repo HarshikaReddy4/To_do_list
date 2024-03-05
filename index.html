@@ -3,21 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>
+    <title>My To-Do List</title>
     <link rel="stylesheet" href="style.css"/>
- </head>
-
+</head>
 <body>
-    back
-    <h1>To do list</h1>
-    <h4><i>A to-do list is a simple organizational tool used to jot down tasks and 
-        activities that need to be completed, helping individuals prioritize
-        and manage their time effectively.</i></h4>
-        <h3>Add your task here</h3>
-        <label>Enter your task</label>
-        <input type="text" id="task" placeholder ="click here to enter" >
-        <button>Add</button>
+    <header>
+        <h1>My To-Do List</h1>
+    </header>
+    <main>
+        <section class="task-section">
+            <h2>Add Your Task Here</h2>
+            <form id="task-form">
+                <label for="task">Enter Your Task</label>
+                <input type="text" id="task" placeholder="Type your task here...">
+                <button type="submit">Add</button>
+            </form>
+            <div id="task-list"></div>
+        </section>
+    </main>
+    <script src="script.js"></script>
 </body>
 </html>
-
-
