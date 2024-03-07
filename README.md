@@ -1,7 +1,5 @@
 # To Do List
 
-This README provides an overview of the project, including installation instructions, usage guidelines, contributors, licensing information, and acknowledgments.
-
 ## Getting Started
 
 To get started with this project, ensure you have the necessary prerequisites installed, such as a web browser and a text editor. Follow the installation instructions below to set up the project on your local machine.
