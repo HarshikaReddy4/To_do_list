@@ -25,7 +25,7 @@ If you would like to contribute to this project, please follow our guidelines fo
 
 ## Authors
 
-The project was developed by Harshika,Vighnesh who can be found on GitHub
+The project was developed by Harshika & Vighnesh
 
 ## Updates
 
