@@ -35,3 +35,5 @@ taskList.addEventListener("change", function (event) {
         }
     }
 });
+
+console.log("Code Works")
